@@ -1,0 +1,10 @@
+body {
+    font-family: 'Merriweather', serif;
+    max-width: 600px;
+    margin: auto;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+}
